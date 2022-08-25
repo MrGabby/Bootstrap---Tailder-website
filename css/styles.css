@@ -1,0 +1,170 @@
+#title{
+    background-color: #ff4c68;
+    /* padding-bottom: 8rem; */
+    color: aliceblue;
+    padding: 3% 15% ;
+    padding-bottom: 5rem;
+} 
+h1{
+    font-family: 'Montserrat', sans-serif;
+/* font-family: 'Ubuntu', sans-serif; */
+font-size: 3rem;
+line-height: 1.5;
+/* padding-right: 3rem; */
+}
+.big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+  }
+body{
+    font-family:" Montserrat";
+}
+.navbar{
+
+    padding: 0 0 5rem;
+}
+.navitem{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: lighter;
+    /* font-family: 'Montserrat'; */
+}
+.aman{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.dwn{
+  margin: 5% 3% 5% 0;
+}
+.ror{ 
+    padding-left: 5rem;
+    /* width: 400%; */
+    width: 60%;
+    /* padding-bottom: 2rem; */
+    position: absolute;
+    transform: rotate(25deg);
+}
+.row1{
+    font-family:'Montserrat-Bold';
+    
+}
+.icon{
+   
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+h3{  
+    font-family:" Montserrat-bold";
+    font-size: 3rem ;
+}
+.ft{
+    font-size: 1.5rem;
+
+}
+#features{
+    padding: 7% 15%;
+    background-color: white;
+   z-index: 1;
+   position: relative;
+}
+.feature-box{
+     text-align: center;
+     padding: 5%;
+}
+p{
+    color: #afafaf;
+}
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+.carousel-item{
+    padding: 7% 10%;
+
+}
+h2{
+    font-family:"Montserrat-Bold" ;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.test{
+    width: 20%;
+    border-radius: 200%;
+    margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    color: white;
+    text-align: center;
+    padding:  0% 10% 10% 10%;
+}
+.presslogo{
+    width: 15%;
+     margin: 20px 20px 50px;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+
+@media (max-width: 1028px) {
+
+    #title {
+      text-align: center;
+    }
+  
+    .ror {
+      position: static;
+      width: 20rem;
+      transform: rotate(0);
+    }
+}
+
+#cta{
+    background-color: #ff4c68;
+    padding: 6%;
+    text-align: center;
+}
+.find{
+    color: aliceblue;
+}
+.lt{
+    background-color: #ffff;
+    color: black;
+    width: 10rem;
+}
+.it{
+    width: 10rem;
+}
+#footer{
+    color: aliceblue;
+    padding: 8%;
+    text-align: center;
+
+}
+.foot{
+    color: #000000;
+    /* font-size: 2rem; */
+    line-height: 2;
+   
+    
+}
+ .copy{
+    /* padding: 1rem; */
+    /* color: #000000; */
+    font-size: 2rem;
+} 
+.social-icon{
+    margin: 20px 10px;
+}
